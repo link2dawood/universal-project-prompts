@@ -21,3 +21,7 @@ A categorized library of reusable prompts for the full software project lifecycl
 4. Use [shared/workflow.md](shared/workflow.md) to keep larger tasks incremental and verifiable.
 
 Prompts guide work; they do not replace project-specific engineering judgment, security review, or platform policies.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
